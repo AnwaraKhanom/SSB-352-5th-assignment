@@ -1,0 +1,204 @@
+body{
+    margin:0;	
+    padding:0;	
+}
+h1,h2,h3,h4,h5,h6,p,ul,li{
+    margin:0;	
+    padding:0;	
+}
+header{border-bottom: 1px solid #c5c4c4;}
+.header-content{
+
+width: 90%;
+
+margin-left: 5%;
+
+
+overflow: hidden;
+}
+.logo{
+
+width: 20%;
+
+float: left;
+
+padding-top: 1px;
+}
+.logo img{width: 50%;}
+nav{
+    width: 30%;
+    float: right;
+    padding-top: 14px;
+}
+nav ul{overflow: hidden;}
+nav ul li{
+
+list-style: none;
+
+float: left;
+
+margin-right: 5%;
+
+font-size: 20px;
+
+text-transform: capitalize;
+}
+.content{
+
+width: 60%;
+
+margin-left: 20%;
+
+text-align: center;
+}
+.content h1:first-child{
+    
+font-size: 50px;
+    
+margin-top: 50px;
+    
+color: #1E395B;
+}
+.content h1{
+ 
+font-size: 50px;
+ 
+color: #0081FF;
+ 
+text-transform: inherit;
+}
+.content p{
+    
+    
+font-size: 18px;
+    
+color: #414040;
+    
+margin-top: 30px;
+}
+.content img{
+    
+
+    
+width: 66%;
+    
+margin-top: 30px;
+}
+
+.main-content{
+
+overflow: hidden;
+}
+.left-content{
+
+width: 46%;
+
+float: left;
+
+text-align: right;
+}
+.left-content h1{
+
+color: red !important;
+}
+.left-content p{
+
+margin: 5px;
+}
+.right-content{
+
+width: 46%;
+
+float: right;
+
+text-align: left;
+}
+.right-content h1{
+
+text-transform: inherit;
+
+font-size: 53px !important;
+}
+
+.second-content{
+    overflow: hidden;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    margin-top: 112px;
+    margin-bottom: 100px;
+}
+.first-img{
+    float: left;
+    width: 28%;
+    background: #FEEBED;
+    padding: 4% 1%;
+}
+.first-img img{
+    width: 100%;
+}
+.first-img h2{
+    text-align: left;
+    color: #1E395B;
+}
+.first-img p{
+    text-align: left;
+    color: #1E395B;
+    margin-top: 5%;
+    line-height: 26px;
+}
+.second-img{
+    float: left;
+    width: 28%;
+    margin-left: 5%;
+    background: #EAF9F4;
+    padding: 4% 1%;
+}
+.second-img img{
+    width: 100%;
+}
+.second-img h2{
+    text-align: left;
+    color: #1E395B;
+}
+.second-img p{
+    text-align: left;
+    color: #1E395B;
+    margin-top: 5%;
+    line-height: 26px;
+}
+.third-img{
+    float: right;
+    width: 28%;
+    background: #FFF8E8;
+    padding: 4% 1%;
+}
+.third-img img{
+    width: 100%;
+}
+.third-img h2{
+    text-align: left;
+    color: #1E395B;
+}
+.third-img p{
+    text-align: left;
+    color: #1E395B;
+    margin-top: 5%;
+    line-height: 26px;
+}
+footer{
+    background-color: #008AFF;
+    text-align: center;
+    padding: 2%;
+}
+footer p{
+    color: rgb(243 243 243);
+    display: inline;
+}
+footer h5{
+    color: white;
+    letter-spacing: 4px;
+    font-size: 20px;
+    margin: 0px 12px;
+    display: inline;
+}

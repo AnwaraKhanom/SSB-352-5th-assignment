@@ -1,0 +1,237 @@
+body{
+    margin:0;	
+    padding:0;	
+}
+h1,h2,h3,h4,h5,h6,p,ul,li{
+    margin:0;	
+    padding:0;	
+}
+header{
+    background-color: #242424;
+}
+.header-content{
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+}
+.logo{
+    width: 20%;
+    float: left;
+    
+}
+.logo img{
+    padding: 4% 0%;
+    width: 43%;
+}
+nav{
+    color: #e2e0e0;
+    width: 37%;
+    float: right;
+    /* padding-top: 1.5%; */
+}
+nav ul{
+
+overflow: hidden;
+}
+nav ul li{
+    
+display: inline;
+    
+font-size: 19px;
+    
+float: left;
+    
+margin-left: 10%;
+    
+padding-top: 5%;
+    
+margin-top: 0%;
+}
+ul li.active{
+    background: #4291D1;
+    padding: 3%;
+    margin-top: 1.5%;
+}
+.content{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    padding: 2%;
+   }
+   .content img{
+   
+   width: 60%;
+   }
+   .icon-content{
+
+width: 82%;
+
+overflow: hidden;
+
+margin: auto;
+
+text-align: center;
+}
+.first-icon{
+
+width: 30%;
+
+float: left;
+
+}
+.first-icon img{
+
+}
+.first-icon h3{color: #3F3F3F;}
+.first-icon p{
+
+margin-top: 4%;
+
+line-height: 146%;
+
+color: #848285;
+}
+
+.second-icon{
+
+width: 30%;
+
+float: left;
+
+margin-left: 5%;
+}
+.second-icon img{
+
+}
+.second-icon h3{
+
+color: #3F3F3F;
+}
+.second-icon p{
+
+margin-top: 4%;
+
+line-height: 146%;
+
+color: #848285;
+}
+
+.third-icon{
+
+width: 30%;
+
+float: right;
+}
+.third-icon img{
+
+}
+.third-icon h3{
+    color: #3F3F3F;
+}
+.third-icon p{
+
+margin-top: 4%;
+
+line-height: 146%;
+
+color: #848285;
+}
+
+.writting-content{
+
+width: 82%;
+
+margin: auto;
+
+overflow: hidden;
+
+text-align: center;
+
+margin-top: 7%;
+}
+.first-writting{
+
+width: 46%;
+
+float: left;
+}
+.first-writting h2{
+    color: #3F3F3F;
+}
+.first-writting p{
+    margin-top: 4%;
+
+    line-height: 146%;
+
+    color: #848285;
+}
+.second-writting{
+
+width: 46%;
+
+float: right;
+}
+.second-writting h2{
+    color: #3F3F3F;
+}
+.second-writting p{
+    margin-top: 4%;
+
+    line-height: 146%;
+
+    color: #848285;
+}
+
+.img-content{
+
+width: 82%;
+
+margin: auto;
+
+overflow: hidden;
+
+text-align: center;
+
+margin-top: 7%;
+}
+.first-img{
+
+width: 47%;
+
+float: left;
+}
+.first-img img{width: 100%;}
+.second-img{
+
+width: 47%;
+
+float: right;
+}
+.second-img img{
+    
+width: 100%;
+}
+
+footer{
+
+background-color: #242424;
+
+text-align: center;
+
+margin-top: 7%;
+
+padding: 2%;
+}
+footer img{width: 11%;}
+footer p{
+
+color: #848285;
+
+margin-top: 1%;
+}
+ .second-p{
+    color: #6984a0;
+ }
+ .by{
+    color: #848285;
+ }
